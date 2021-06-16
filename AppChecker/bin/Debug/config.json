@@ -1,0 +1,34 @@
+[
+  {
+    "name": "First Pass Yield",
+    "process": "FPYCheckerEngine"
+  },
+  {
+    "name": "Ipro Collector",
+    "process": "iProCollector"
+  },
+  {
+    "name": "Database File Uploader(Medical)",
+    "process": "MedicalFileEngine"
+  },
+  {
+    "name": "Power BI Data Collector",
+    "process": "Kpi_Sys_Collector"
+  },
+  {
+    "name": "Kpi Dashboard Collector",
+    "process": "KPIEngine"
+  },
+  {
+    "name": "Lockh File Db Uploader",
+    "process": "lockh.D3"
+  },
+  {
+    "name": "New Way Lost Time Collector",
+    "process": "LostTimes"
+  },
+  {
+    "name": "Photo Uploader(Medical)",
+    "process": "MedicalPhotoEngine"
+  }
+]

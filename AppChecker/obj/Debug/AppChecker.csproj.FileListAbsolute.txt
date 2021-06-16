@@ -1,0 +1,13 @@
+C:\Users\octavio\source\repos\AppChecker\AppChecker\obj\Debug\AppChecker.csproj.CoreCompileInputs.cache
+C:\Users\octavio\source\repos\AppChecker\AppChecker\bin\Debug\config.json
+C:\Users\octavio\source\repos\AppChecker\AppChecker\bin\Debug\AppChecker.exe.config
+C:\Users\octavio\source\repos\AppChecker\AppChecker\bin\Debug\AppChecker.exe
+C:\Users\octavio\source\repos\AppChecker\AppChecker\bin\Debug\AppChecker.pdb
+C:\Users\octavio\source\repos\AppChecker\AppChecker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\octavio\source\repos\AppChecker\AppChecker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\octavio\source\repos\AppChecker\AppChecker\obj\Debug\AppChecker.csproj.CopyComplete
+C:\Users\octavio\source\repos\AppChecker\AppChecker\obj\Debug\AppChecker.exe
+C:\Users\octavio\source\repos\AppChecker\AppChecker\obj\Debug\AppChecker.pdb
+C:\Users\octavio\source\repos\AppChecker\AppChecker\obj\Debug\AppChecker.AppCheckerService.resources
+C:\Users\octavio\source\repos\AppChecker\AppChecker\obj\Debug\AppChecker.csproj.GenerateResource.cache
+C:\Users\octavio\source\repos\AppChecker\AppChecker\obj\Debug\AppChecker.csprojAssemblyReference.cache
