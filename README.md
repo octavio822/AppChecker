@@ -16,7 +16,8 @@ Source[1]:
 <br/>Framework 4.5 (Can change)
 <br/>Must be installed with powershell using  new-service -Description <ServiceName> -Binarypathname <service path> 
 <br/>The next command create the Log
-<pre/>PS C:\> new-eventlog
+<pre/>PS C:\> new-eventlog  
+
 cmdlet New-EventLog at command pipeline position 1
 Supply values for the following parameters:
 LogName: App Checker
