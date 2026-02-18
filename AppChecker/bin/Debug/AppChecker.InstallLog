@@ -1,0 +1,12 @@
+﻿Uninstalling assembly 'C:\Users\octavio\source\repos\AppChecker\AppChecker\bin\Debug\AppChecker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\octavio\source\repos\AppChecker\AppChecker\bin\Debug\AppChecker.InstallLog
+   assemblypath = C:\Users\octavio\source\repos\AppChecker\AppChecker\bin\Debug\AppChecker.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\octavio\source\repos\AppChecker\AppChecker\bin\Debug\AppChecker.exe assembly.
+Uninstalling assembly 'C:\Users\octavio\source\repos\AppChecker\AppChecker\bin\Debug\AppChecker.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\octavio\source\repos\AppChecker\AppChecker\bin\Debug\AppChecker.InstallLog
+   assemblypath = C:\Users\octavio\source\repos\AppChecker\AppChecker\bin\Debug\AppChecker.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\octavio\source\repos\AppChecker\AppChecker\bin\Debug\AppChecker.exe assembly.

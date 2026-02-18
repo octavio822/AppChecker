@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Description 1",
+    "process": "Process1"
+  },
+  {
+    "name": "Description 2",
+    "process": "Process2[no .exe]"
+  }
+]
